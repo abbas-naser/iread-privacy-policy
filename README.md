@@ -4,7 +4,7 @@ This repository hosts the Privacy Policy for the application **"أقرأ"**.
 The policy itself is available as an `index.html` file and is published via **GitHub Pages**.
 
 🔗 View the live Privacy Policy here:  
-[https://your-username.github.io/privacy-policy/](https://your-username.github.io/privacy-policy/)
+[https://abbas-naser.github.io/iread-privacy-policy/](https://abbas-naser.github.io/iread-privacy-policy/)
 
 ---
 
