@@ -1,4 +1,4 @@
-# iRead Privacy Policy
+# Privacy Policy - أقرأ
 
 This repository hosts the Privacy Policy for the application **"أقرأ"**.  
 The policy itself is available as an `index.html` file and is published via **GitHub Pages**.
